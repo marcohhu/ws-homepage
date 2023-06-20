@@ -1,5 +1,7 @@
 ---
 title: "ws-homepage"
+subtitle: "tbc..."
+description: "tbc..."
 ---
 
 This is a Quarto website.
